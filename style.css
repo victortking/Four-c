@@ -1,0 +1,68 @@
+body{
+background-color: #FAFAFA;
+font-family: 'Poppins', sans-serif;
+padding-bottom: 40px;
+}
+
+header{
+text-align: center;
+}
+
+p{
+font-size: 15px;
+}
+
+.fp{
+font-size: 24px;
+}
+
+.card{
+background-color: white;
+width: 77%;
+margin: auto;
+border-radius: 5px;
+margin-bottom: 20px;
+filter: drop-shadow(2px 12px 8px #DDE5EF);
+}
+
+img{
+width: 40px;
+margin: 0 0 15px 200px;
+}
+
+h3{
+padding: 10px 0 0 0;
+}
+
+.m{
+margin-bottom: 60px;
+}
+
+h3, .h{
+margin-left: 20px;
+}
+
+hr{
+height: 2px;
+border-radius: 5px 5px 0 0;
+}
+
+.hr1{
+background-color: #49CFD0;
+border: solid 1px #49CFD0;
+}
+
+.hr2{
+background-color: #DA5C5F;
+border: solid 1px #DA5C5F;
+}
+
+.hr3{
+background-color: #F4AE56;
+border: solid 1px #F4AE56;
+}
+
+.hr4{
+background-color: #589DEA;
+border: solid 1px #589DEA;
+}
